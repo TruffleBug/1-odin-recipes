@@ -1,0 +1,26 @@
+img {
+    width: 310px;
+    box-shadow: 0 4px 8px 0 gray;
+
+}
+
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    background-color: bisque;
+}
+
+ul {
+    color: blueviolet;
+}
+
+.label {
+    font-size: 36px;
+    font-weight: bolder;
+    margin-top: -55px;
+    margin-left: 16px;
+    color: white;
+    text-shadow: 3px 3px 5px black;
+}
